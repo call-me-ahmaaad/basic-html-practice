@@ -5,5 +5,7 @@ The inspiration for this project was the page of an Azur Lane character, KMS Bis
 
 In the future, I will try to recreate it using CSS to beautify and make it as similar as possible to the original. Of course, I will write the program code myself without copying the default web page.
 
+Reference: [KMS Bismarck](https://azurlane.koumakan.jp/wiki/Bismarck)
+
 ## 🤔 What I learned?
 At this stage, I understand how to use some basic HTML components like links, images, tables, and so on. Another key aspect is how to structure HTML semantically.
